@@ -18,3 +18,8 @@ font-size: 12px;
 .el-pagination{
     margin-top: 15px;
 }
+
+.el-cascader-menu .el-cascader-panel {
+    height: 200px ; 
+}
+ 
