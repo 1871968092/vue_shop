@@ -12,6 +12,8 @@ module.exports = {
   },
   rules: {
     'space-before-function-paren': 0,
+    'camelcase': 'off',
+    '@typescript-eslint/camelcase': 0,
     'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'indent': 'off'
