@@ -179,7 +179,7 @@ export default {
       // 静态属性列表数据
       onlyTableData: [],
       // 图片上传的url地址
-      uploadURL: 'http://www.ysqorz.top:8888/api/private/v1/upload',
+      uploadURL: 'http://timemeetyou.com:8889/api/private/v1/upload',
       headerObj: {
         Authorization: window.sessionStorage.getItem('token')
       },
